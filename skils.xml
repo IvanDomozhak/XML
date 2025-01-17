@@ -1,0 +1,27 @@
+<skills>
+  <skill>Базовая теория тестирования: багрепорты, документация, виды, методы, направления тестирования, SDLC, STLC</skill>
+  <skill>Клиент-серверная архитектура</skill>
+  <skill>HTTP: Методы запросов на сервер, коды ответов, структура запросов и ответов</skill>
+  <skill>Форматы данных: JSON, XML и их структура</skill>
+  <skill>Тестирование API через Postman: автотесты на JS</skill>
+  <skill>Снятие и чтение логов с внешнего сервера</skill>
+  <skill>Снифинг HTTP-трафика через Charles и Fiddler</skill>
+  <skill>Инструменты Dev Tools веб-браузеров (Google Chrome, Firefox)</skill>
+  <skill>VPN: работа, назначение, использование, инструменты</skill>
+  <skill>Мобильное тестирование, особенности iOS и Android, гайдлайны</skill>
+  <skill>Сборка iOS приложений в XCode</skill>
+  <skill>Сборка Android приложений в Android Studio</skill>
+  <skill>ADB: управление Android-устройствами</skill>
+  <skill>Настройка прокси и VPN на iOS и Android</skill>
+  <skill>Перехват мобильного трафика через Charles и Fiddler</skill>
+  <skill>Командная строка Linux: копирование, создание, просмотр, перемещение файлов</skill>
+  <skill>Основы bash-скриптинга: автоматизация задач на сервере</skill>
+  <skill>Доступ к удалённым серверам</skill>
+  <skill>Основы SQL: Create, Delete, Drop, Insert Into, Select, From, Where, Join</skill>
+  <skill>Postgres: установка, настройка, использование</skill>
+  <skill>Redis: установка, настройка, использование</skill>
+  <skill>Нагрузочное тестирование в JMeter</skill>
+  <skill>Методология разработки Scrum</skill>
+  <skill>Техники тест-дизайна: классы эквивалентности, граничные значения, комбинаторные техники, состояния и переходы</skill>
+  <skill>Python: основы, создание клиент-серверного приложения</skill>
+</skills>
