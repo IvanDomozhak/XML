@@ -12,7 +12,7 @@
   <expected_result>Появляется сообщение об ошибке: 'Неверный пароль. Повторите попытку.'</expected_result>
   <actual_result>Приложение обновляет страницу входа без отображения сообщения об ошибке.</actual_result>
   <severity>High</severity>
-  <priority>Medium</priority>
+  <priority>low</priority>
   <environment>
     <os>Windows 10</os>
     <browser>Google Chrome 117.0.5938.89</browser>
