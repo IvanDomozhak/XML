@@ -1,0 +1,27 @@
+<bug_report>
+  <id>BUG-001</id>
+  <title>Ошибка при входе в систему с неверным паролем</title>
+  <description>При вводе неверного пароля приложение не отображает сообщение об ошибке.</description>
+  <steps_to_reproduce>
+    <step>Открыть приложение</step>
+    <step>Перейти на экран входа</step>
+    <step>Ввести валидное имя пользователя</step>
+    <step>Ввести неверный пароль</step>
+    <step>Нажать на кнопку 'Войти'</step>
+  </steps_to_reproduce>
+  <expected_result>Появляется сообщение об ошибке: 'Неверный пароль. Повторите попытку.'</expected_result>
+  <actual_result>Приложение обновляет страницу входа без отображения сообщения об ошибке.</actual_result>
+  <severity>High</severity>
+  <priority>Medium</priority>
+  <environment>
+    <os>Windows 10</os>
+    <browser>Google Chrome 117.0.5938.89</browser>
+    <app_version>1.2.3</app_version>
+    <device>PC</device>
+  </environment>
+  <attachments>
+    <attachment>
+      <type>screenshot</type>
+    </attachment>
+  </attachments>
+</bug_report>
